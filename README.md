@@ -4,15 +4,16 @@
 
 ## The training pipeline of DTS-INN
 
- <div align="center"><img src="https://github.com/yqx7150/DTS-INN/fig/fig2.jpg"> </div>
+ ![fig2](https://github.com/yqx7150/DTS-INN/assets/26964726/819935f9-5461-4c57-95ec-ea8e74c9e2f5)
 
 ## The detailed architecture of DTS-INN
 
- <div align="center"><img src="https://github.com/yqx7150/DTS-INN/fig/fig3.jpg"> </div>
+ ![fig3](https://github.com/yqx7150/DTS-INN/assets/26964726/de4f60c8-a986-4d37-ae75-331943268fda)
 
 ## Visualization results of several comparison methods
 
- <div align="center"><img src="https://github.com/yqx7150/DTS-INN/fig/fig6.jpg"> </div>
+ ![fig6](https://github.com/yqx7150/DTS-INN/assets/26964726/b33587b4-c313-4f9f-acb0-4846e3f42aa7)
+
 
 
 # Train
