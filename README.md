@@ -1,5 +1,4 @@
-# Temporal Image Sequence Separation in Dual-tracer 
-Dynamic PET with an Invertible Network
+# Temporal Image Sequence Separation in Dual-tracer Dynamic PET with an Invertible Network
 
 
 
