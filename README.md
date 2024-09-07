@@ -1,6 +1,10 @@
-# Temporal Image Sequence Separation in Dual-tracer Dynamic PET with an Invertible Network
+# Temporal Image Sequence Separation in Dual-tracer Dynamic PET with an Invertible Network    
+Chuanfu Sun, Bin Huang, Jie Sun, Yangfan Ni, Huafeng Liu, Qian Xia, Qiegen Liu, Wentao Zhu         
+IEEE Transactions on Radiation and Plasma Medical Sciences     
+https://ieeexplore.ieee.org/abstract/document/10542421       
 
-
+Abstract:      
+Positron emission tomography (PET) is a widely used functional imaging technique in clinic. Compared to single-tracer PET, dual-tracer dynamic PET allows two sequences of different nuclear pharmaceuticals in one scan, revealing richer physiological information. However, dynamically separating the mixed signals in dual-tracer PET is challenging due to identical energy ~511 keV in gamma photon pairs from both tracers. We propose a method for dynamic PET dual-tracer separation based on invertible neural networks (DTS-INNs). This network enables the forward and backward process simultaneously. Therefore, producing the mixed image sequences from the separation results through backward process may impose extra constraints for optimizing the network. The loss is composed of two components corresponding to the forward and backward propagation processes, which results in more accurate gradient computations and more stable gradient propagation with cycle consistency. We assess our model’s performance using simulated and real data, comparing it with several reputable dual-tracer separation methods. The results of DTS-INN outperform counterparts with lower-mean square error, higher-structural similarity, and peak signal to noise ratio. Additionally, it exhibits robustness against noise levels, phantoms, tracer combinations, and scanning protocols, offering a dependable solution for dual-tracer PET image separation.     
 
 ## The training pipeline of DTS-INN
 
