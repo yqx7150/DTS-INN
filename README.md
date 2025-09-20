@@ -61,3 +61,5 @@ python test.py --ckpt="./exps/out_path/checkpoint/latest.pth"
   * Invertible and Variable Augmented Network for Pretreatment Patient-Specific Quality Assurance Dose Prediction [<font size=5>**[Paper]**</font>](https://link.springer.com/article/10.1007/s10278-023-00930-w)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/IVPSQA/)    
 
   * Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10980366)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/st-DTPM)   
+           
+  * A Prior-Guided Joint Diffusion Model in Projection Domain for PET Tracer Conversion [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2506.16733) [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PJDM)       
